@@ -110,7 +110,7 @@ char str[6000000];
 
 int main()
 {
-    freopen("in.txt","r",stdin);
+    //freopen("in.txt","r",stdin);
     int t, n, pre;
     scanf("%d",&t);
     for(int ca = 1; ca <= t; ca++)
